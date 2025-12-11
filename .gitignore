@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# PyInstaller artifacts
+dist/
+*.spec
+
+#Inno Setup artifacts
+output/
