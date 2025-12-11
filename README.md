@@ -1,6 +1,6 @@
 # 15 Puzzle Game (MVP)
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Status](https://img.shields.io/badge/status-MVP-orange) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Version](https://img.shields.io/badge/version-0.1.0--prealpha-orange) ![Status](https://img.shields.io/badge/status-MVP-orange) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 A classic 15-puzzle game built with Python and Tkinter.
 
