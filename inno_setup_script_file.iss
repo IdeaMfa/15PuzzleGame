@@ -3,7 +3,7 @@
 ; Non-commercial use only
 
 #define MyAppName "15puzzle_prealpha"
-#define MyAppVersion "1.0"
+#define MyAppVersion "0.1.0-prealpha"
 #define MyAppPublisher "IdeaMfa"
 #define MyAppURL "https://github.com/IdeaMfa/15PuzzleGame"
 #define MyAppExeName "15PuzzleGame.exe"
